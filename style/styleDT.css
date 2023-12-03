@@ -12,7 +12,7 @@ nav{
     background: linear-gradient(90deg, rgba(107,80,40,1) 0%, rgba(107,108,128,1) 100%);
 }
 .perfil .top .nombre {
-    color: #000;
+    color: #efc045;
 }
 .perfil .top .descripcion{
     color: #000000;
@@ -47,8 +47,8 @@ nav{
 	padding-left: 8px;
 }
 .footerContainer .socialIcons a{
-	background-color: rgba(255,255,255,0.2);
-	color: #6b5028;
+    background-color: #efc045;
+    color: rgba(167,100,74,1)
 }
 .footerContainer .socialIcons a:hover{
 	color: #a23a61;

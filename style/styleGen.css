@@ -1,0 +1,89 @@
+
+nav{
+    background: linear-gradient(90deg, rgba(131,58,180,0.7455357142857143) 0%, rgba(65,162,186,1) 100%);
+}
+
+
+
+.perfil .top{
+    background: radial-gradient(circle, rgba(166,165,165,1) 0%, rgba(238,238,240,1) 100%);
+}
+.perfil .top .foto{
+    background: linear-gradient(90deg, rgba(131,58,180,0.7455357142857143) 0%, rgba(65,162,186,1) 100%);
+}
+.perfil .top .nombre {
+    color:purple;
+}
+.perfil .top .descripcion{
+    color: #000000;
+    font-weight: bold;
+}
+.perfil .top .elementos a {
+    color: #04b76b;
+    background: linear-gradient(to right, #1A66CC, #2699E6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.perfil .top .elementos .fa-facebook:hover{
+    -webkit-text-fill-color: #056991;
+}
+.perfil .top .elementos .fa-twitter:hover{
+    -webkit-text-fill-color: #0daff0;
+}
+.perfil .top .elementos .fa-github:hover{
+    -webkit-text-fill-color: #031316;
+}
+.perfil .top .elementos .fa-instagram:hover{
+    -webkit-text-fill-color: #ff53cb;
+}
+.contactame{
+    color: #fff;
+    border: solid 3px #a77da7;
+    background: purple;
+}
+.contactame:hover{
+    background: #a77da7;
+    color: #000;
+    border: solid 3px rgb(93 8 101);
+}
+
+.button{
+    /* background: linear-gradient(90deg, rgba(131,58,180,0.7455357142857143) 0%, rgba(65,162,186,1) 100%); */
+    background: #FFF;
+}
+
+.footerContainer ul li a{
+    color: black;
+    font-weight: bold;
+}
+
+.footerContainer ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footerContainer .socialIcons a{
+    background: linear-gradient(to right, #833ab4, #41a2ba);
+    opacity: 0.9;
+    color: #fff;
+}
+.footerContainer .socialIcons a:hover{
+	color: #000;
+	background-color: #ffffff;
+        opacity: 1;
+}
+.footerBottom{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+
+}
+
+
+
+
+
+.footer{
+    background: linear-gradient(90deg, rgba(131,58,180,0.7455357142857143) 0%, rgba(65,162,186,1) 100%);
+    border: 1px solid; 
+    border-image: linear-gradient(to top, #24262b 30%, #eeeef0 100%) 1; 
+}

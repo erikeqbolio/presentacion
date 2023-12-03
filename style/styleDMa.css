@@ -12,19 +12,19 @@ nav{
     background: linear-gradient(90deg, rgba(240,181,189,1) 0%, rgba(253,111,160,1) 100%);
 }
 .perfil .top .nombre {
-    color: #000;
+    color: #fff;
 }
 .perfil .top .descripcion{
     color: #000000;
     font-weight: bold;
 }
 .perfil .top .elementos a {
-    color: #efc045;
+    color: #fff;
 }
 .contactame{
     color: #fff;
-    border: 2px solid #dba860;
-    background: green;
+    border: 2px solid pink;
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
 }
 .contactame:hover{
     background: #dba860;
@@ -38,7 +38,7 @@ nav{
 .footerContainer ul li a{
 	/* color: #ffffff;
 	color: #a23a61; */
-    color: green;
+    color: #000;
     font-weight: bold;
 }
 
@@ -47,8 +47,8 @@ nav{
 	padding-left: 8px;
 }
 .footerContainer .socialIcons a{
-	background-color: rgba(255,255,255,0.2);
-	color: #a23a61;
+    background-color: rgba(255,255,255,0.2);
+    color: #fc466b;
 }
 .footerContainer .socialIcons a:hover{
 	color: #a23a61;
@@ -56,7 +56,7 @@ nav{
 }
 .footerBottom{
 	text-align: center;
-	color: green;
+	color: #000;
     font-weight: bold;
 
 }
@@ -68,6 +68,7 @@ nav{
 .footer{
     background: linear-gradient(90deg, rgba(247,119,168,1) 0%, rgba(243,155,213,1) 35%, rgba(235,160,181,1) 68%, rgba(231,198,209,1) 100%);
 }
+
 
 
 
