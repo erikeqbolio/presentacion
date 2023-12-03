@@ -1,0 +1,76 @@
+
+nav{
+    background: linear-gradient(0deg, rgba(254,190,216,1) 0%, rgba(206,212,175,0.6867121848739496) 50%, rgba(201,252,229,1) 100%);
+
+}
+
+
+
+.perfil .top{
+    background: radial-gradient(circle, rgba(166,209,57,1) 30%, rgba(241,115,215,1) 100%);
+}
+.perfil .top .foto{
+    background: linear-gradient(90deg, rgba(240,181,189,1) 0%, rgba(253,111,160,1) 100%);
+}
+.perfil .top .nombre{
+    color: #fff;
+}
+.perfil .top .descripcion{
+    color: #000000;
+    font-weight: bold;
+}
+.contactame{
+    color: #fff;
+    border: 2px solid #dba860;
+    background: green;
+}
+.contactame:hover{
+    background: #dba860;
+    color: #e66767;
+}
+
+.button{
+    background: #f4f4f4;
+}
+
+.footerContainer ul li a{
+	/* color: #ffffff;
+	color: #a23a61; */
+    color: green;
+    font-weight: bold;
+}
+
+.footerContainer ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footerContainer .socialIcons a{
+	background-color: rgba(255,255,255,0.2);
+	color: #a23a61;
+}
+.footerContainer .socialIcons a:hover{
+	color: #a23a61;
+	background-color: #ffffff;
+}
+.footerBottom{
+	text-align: center;
+	color: green;
+    font-weight: bold;
+
+}
+
+
+
+
+
+.footer{
+	background: linear-gradient(0deg, rgba(201,252,229,1) 0%, rgba(206,212,175,0.8323704481792717) 50%, rgba(254,190,216,1) 100%);
+
+}
+
+
+
+
+
+
+

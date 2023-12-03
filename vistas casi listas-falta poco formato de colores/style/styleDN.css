@@ -1,0 +1,76 @@
+
+nav{
+    background: linear-gradient(90deg, rgba(243,155,213,1) 0%, rgba(242,209,200,1) 25%, rgba(80,191,140,1) 50%, rgba(243,188,121,1) 75%, rgba(148,189,241,1) 100%);
+
+}
+
+
+
+.perfil .top{
+    background: linear-gradient(90deg, rgba(80,191,140,1) 0%, rgba(148,189,241,1) 100%);
+}
+.perfil .top .foto{
+    background: linear-gradient(90deg, rgba(240,181,189,1) 0%, rgba(253,111,160,1) 100%);
+}
+.perfil .top .nombre {
+    color: #000;
+}
+.perfil .top .descripcion{
+    color: #000000;
+    font-weight: bold;
+}
+.perfil .top .elementos a {
+    color: #efc045;
+}
+.contactame{
+    color: #fff;
+    border: 2px solid #dba860;
+    background: green;
+}
+.contactame:hover{
+    background: #dba860;
+    color: #e66767;
+}
+
+.button{
+    background: #f4f4f4;
+}
+
+.footerContainer ul li a{
+	/* color: #ffffff;
+	color: #a23a61; */
+    color: green;
+    font-weight: bold;
+}
+
+.footerContainer ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footerContainer .socialIcons a{
+	background-color: rgba(255,255,255,0.2);
+	color: #a23a61;
+}
+.footerContainer .socialIcons a:hover{
+	color: #a23a61;
+	background-color: #ffffff;
+}
+.footerBottom{
+	text-align: center;
+	color: green;
+    font-weight: bold;
+
+}
+
+
+
+
+
+.footer{
+    background: radial-gradient(circle, rgba(243,155,213,1) 0%, rgba(242,209,200,1) 25%, rgba(80,191,140,1) 50%, rgba(243,188,121,1) 75%, rgba(148,189,241,1) 100%);
+}
+
+
+
+
+

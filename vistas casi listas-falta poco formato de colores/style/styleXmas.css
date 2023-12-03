@@ -1,0 +1,64 @@
+
+nav{
+    background: linear-gradient(90deg, rgba(253,249,99,1) 26%, rgba(239,184,16,1) 51%, rgba(239,184,16,1) 69%, rgba(255,255,0,1) 86%);
+}
+.togglebtn {
+    color: green;
+}
+nav ul li a {
+    color: green;
+}
+
+
+.perfil .top{
+    background-image: url(http://drive.google.com/uc?export=view&id=10siDS0LBNStRRf9bSA-FuxiQiiCi5h71);
+}
+.perfil .top .foto{
+
+    background: linear-gradient(90deg, rgba(253,249,99,1) 26%, rgba(239,184,16,1) 51%, rgba(239,184,16,1) 69%, rgba(255,255,0,1) 86%);
+}
+.perfil .top .nombre{
+    color: #efb810;
+}
+.perfil .top .descripcion{
+    color: #c0c0c0;
+    font-weight: bolder;
+}
+.perfil .top .elementos a {
+    color: green;
+
+}
+.contactame{
+    color: green;
+    border: 2px solid rgb(255,255,0);
+    background: #efb810;
+}
+.contactame:hover{
+    background: #f9db5c;
+    color: green;
+}
+
+.button{
+    background: #f4f4f4;
+}
+
+
+
+.footer{
+    background: linear-gradient(90deg, rgba(253,249,99,1) 26%, rgba(239,184,16,1) 51%, rgba(239,184,16,1) 69%, rgba(255,255,0,1) 86%);
+}
+.footerContainer .socialIcons a {
+    color: green;
+}
+.footerContainer ul li a {
+    color: green;
+}
+.footerBottom {
+    color: green;
+}
+
+@media (max-width: 858px){
+    .navi{   
+        background: #9C6
+   }
+}

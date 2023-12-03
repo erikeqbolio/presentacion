@@ -1,0 +1,75 @@
+
+nav{
+    background: linear-gradient(90deg, rgba(167,100,74,1) 0%, rgba(233,190,85,1) 100%);
+}
+
+
+
+.perfil .top{
+    background: linear-gradient(0deg, rgba(167,100,74,1) 0%, rgba(200,146,102,1) 100%);
+}
+.perfil .top .foto{
+    background: linear-gradient(90deg, rgba(107,80,40,1) 0%, rgba(107,108,128,1) 100%);
+}
+.perfil .top .nombre {
+    color: #000;
+}
+.perfil .top .descripcion{
+    color: #000000;
+    font-weight: bold;
+}
+.perfil .top .elementos a {
+    color: #efc045;
+}
+.contactame{
+    color: #fff;
+    border: 2px solid #dba860;
+    background: #6b6c80;
+}
+.contactame:hover{
+    background: #dba860;
+    color: #e66767;
+}
+
+.button{
+    background: #f4f4f4;
+}
+
+.footerContainer ul li a{
+	/* color: #ffffff;
+	color: #a23a61; */
+    color: #6b6c80;
+    font-weight: bold;
+}
+
+.footerContainer ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footerContainer .socialIcons a{
+	background-color: rgba(255,255,255,0.2);
+	color: #6b5028;
+}
+.footerContainer .socialIcons a:hover{
+	color: #a23a61;
+	background-color: #ffffff;
+}
+.footerBottom{
+	text-align: center;
+	color: #6b6c80;
+    font-weight: bold;
+
+}
+
+
+
+
+
+.footer{
+    background: linear-gradient(0deg, rgba(238,152,29,1) 0%, rgba(240,187,91,1) 44%);
+}
+
+
+
+
+

@@ -1,0 +1,64 @@
+
+nav{
+    background: linear-gradient(90deg, rgba(93,8,101,1) 2%, rgba(237,49,150,1) 55%, rgba(255,128,0,1) 90%);
+}
+
+
+
+.perfil .top{
+    background-image: url(http://drive.google.com/uc?export=view&id=1q5cq8Q4uQUvP9RuGxh5_Baqe9ReMR_SU);
+}
+.perfil .top .foto{
+    background: linear-gradient(90deg, rgba(237,49,150,1) 0%, rgba(255,128,0,1) 100%);
+}
+.perfil .top .nombre{
+    color: #fff;
+}
+.perfil .top .descripcion{
+    color: #e66767;
+}
+.contactame{
+    color: #e66767;
+    border: 2px solid #e66767;
+}
+.contactame:hover{
+    background: #e66767;
+    color: #fff;
+}
+
+.button{
+    background: #f4f4f4;
+}
+
+
+
+.footer{
+	background-color: #24262b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

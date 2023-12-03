@@ -1,0 +1,50 @@
+.cuerpo{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: block;
+    width: 50%;
+    border: 5px solid red;
+}
+.nombre{
+    width: 100%;
+}
+.nombre p{
+    text-align: center;
+    font-size: 30px;
+}
+/* //////////////////////////////////////////////// */
+.presenta{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.col-fo, .col-te {
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-fo{
+    width: 15%;
+}
+.col-te{
+    width: 85%;
+}
+/* //////////////////////////////////////////////// */
+.logos{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.col-fo img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}

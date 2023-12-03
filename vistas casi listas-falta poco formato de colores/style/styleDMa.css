@@ -1,0 +1,75 @@
+
+nav{
+    background: linear-gradient(90deg, rgba(214,189,228,1) 0%, rgba(190,136,224,1) 29%, rgba(239,121,171,1) 62%, rgba(220,56,107,1) 100%);
+}
+
+
+
+.perfil .top{
+    background: linear-gradient(90deg, rgba(104,189,218,1) 0%, rgba(202,172,222,1) 38%, rgba(214,61,105,1) 100%);
+}
+.perfil .top .foto{
+    background: linear-gradient(90deg, rgba(240,181,189,1) 0%, rgba(253,111,160,1) 100%);
+}
+.perfil .top .nombre {
+    color: #000;
+}
+.perfil .top .descripcion{
+    color: #000000;
+    font-weight: bold;
+}
+.perfil .top .elementos a {
+    color: #efc045;
+}
+.contactame{
+    color: #fff;
+    border: 2px solid #dba860;
+    background: green;
+}
+.contactame:hover{
+    background: #dba860;
+    color: #e66767;
+}
+
+.button{
+    background: #f4f4f4;
+}
+
+.footerContainer ul li a{
+	/* color: #ffffff;
+	color: #a23a61; */
+    color: green;
+    font-weight: bold;
+}
+
+.footerContainer ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footerContainer .socialIcons a{
+	background-color: rgba(255,255,255,0.2);
+	color: #a23a61;
+}
+.footerContainer .socialIcons a:hover{
+	color: #a23a61;
+	background-color: #ffffff;
+}
+.footerBottom{
+	text-align: center;
+	color: green;
+    font-weight: bold;
+
+}
+
+
+
+
+
+.footer{
+    background: linear-gradient(90deg, rgba(247,119,168,1) 0%, rgba(243,155,213,1) 35%, rgba(235,160,181,1) 68%, rgba(231,198,209,1) 100%);
+}
+
+
+
+
+
