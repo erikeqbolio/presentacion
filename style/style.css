@@ -1,3 +1,8 @@
+iframe{
+    width: 100vw;
+    height: 900px;
+    overflow: hidden;
+}
 body{
 	line-height: 1.5;
 	font-family: 'Poppins', sans-serif;
@@ -22,7 +27,7 @@ body{
     font-weight: bold   ;
 }
 header{
-    padding-bottom: 10%;
+    padding-bottom: 22%;
 }
 .navi{
     padding: 0;
@@ -261,6 +266,7 @@ nav ul li a:hover{
     .perfil{
         width: 55%;
         text-align: center;
+        margin-top: 30vh;
     }
 }
 @media (max-width: 1150px){
@@ -278,7 +284,7 @@ nav ul li a:hover{
 
 
 footer{
-    margin-top: 12%;
+    margin-top: 24%;
 }
 .footerContainer{
 	max-width: 1170px;
@@ -292,6 +298,7 @@ ul{
 .footer{
 	/* background-color: #24262b; */
     padding: 15px 0;
+    margin-top: 50vh;
 }
 .footerContainer{
    width: 25%;
@@ -418,11 +425,11 @@ reponsividad de pagina
 }
 @media (max-width: 574px){
     .perfil{
-        margin-top: 20%;
+        margin-top: 155vh;
         width: 320px;
     }
     .footer{
-        margin-top: 45%;
+        margin-top: 160vh;
     }
     .footerContainer {
         margin-left: 0%;
@@ -508,21 +515,45 @@ reponsividad de pagina
 	header{
 		padding-bottom: 45%;
 	}
+    .perfil{
+        margin-top: 175vh;
+    }
 	footer{
-		margin-top: 50%;
+		margin-top: 215vh;
 	}
 }
 @media (max-height: 700px) and (max-width: 700px){
     header{
-        padding-bottom: 45%;
+        padding-bottom: 50%;
     }
     .footer{
-        margin-top: 85%;
+        margin-top: 210vh;
     }
 }
-
-
-
+@media (width: 768px){
+    .perfil{
+        margin-top: 65vh;
+    }
+	.footer{
+		margin-top: 90vh;
+	}
+}
+@media (width: 1114px){
+    .perfil{
+        margin-top: 75vh;
+    }
+	.footer{
+		margin-top: 110vh;
+	}
+}
+@media (min-width: 1200px) and (max-width: 1360px){
+    .perfil{
+        margin-top: 75vh;
+    }
+	.footer{
+		margin-top: 110vh;
+	}
+}
 
 
 

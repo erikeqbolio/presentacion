@@ -4,8 +4,8 @@ function stilys(){
     let month = date.getMonth() + 1;
     let year = date.getFullYear();
 
-    month=4;
-    day=30;
+    // month=4;
+    // day=30;
 
 if ((month == 10 && day > 20) && (month == 11 && day < 8) ) {//muertos
         estilo("styleDM");
