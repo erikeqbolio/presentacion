@@ -4,14 +4,15 @@ function stilys(){
     let month = date.getMonth() + 1;
     let year = date.getFullYear();
 
-    // month=4;
-    // day=30;
+    // month=3;
+    // day=10;
 
+    console.log('dia'+ day +'mes'+ month +'año'+year);
 if ((month == 10 && day > 20) && (month == 11 && day < 8) ) {//muertos
         estilo("styleDM");
     }else if ( (month == 11 && day > 16) && (month == 11 && day < 22) ) {//revolucion
         estilo("styleMEX");
-    }else if ( (month == 12 && day > 16) && (month == 1 && day < 12) ){//navidad
+    }else if ( (month == 12 && day > 16) && (month == 12 && day < 32) || (month == 1 && day > 0) && (month == 1 && day < 12) ){//navidad
         estilo("styleXmas");
     }else if( (month == 2 && day > 3) && (month == 2 && day < 7) ){//constitucion
         estilo("styleMEX");

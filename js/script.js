@@ -56,15 +56,14 @@ function backg(){
     "http://drive.google.com/uc?export=view&id=1Dg8OEZWMM4ttK2KSzdw0MqqmiNw1g0TP","http://drive.google.com/uc?export=view&id=1hmQQuZO7wvPnxRcnehO3QHHe2WQmC4kZ",
     "http://drive.google.com/uc?export=view&id=1bfOIAH9oqhcHRl-tftLIxlENJArVS-us"];
 
-    // month=4;
-    // day=30;
-
+    //  month=10;
+    //  day=21;
     if ((month == 10 && day > 20) && (month == 11 && day < 8) ) {//muertos
         fondo(DM[aleatorio(DM.length)]);
         RemoverEscudo();
     }else if ( (month == 11 && day > 16) && (month == 11 && day < 22) ) {//revolucion
         fondo(Rev[aleatorio(Rev.length)]);
-    }else if ( (month == 12 && day > 16) && (month == 1 && day < 12) ) {//navidad
+    }else if ( (month == 12 && day > 16) && (month == 12 && day < 32) || (month == 1 && day > 0) && (month == 1 && day < 12) ){//navidad
         fondo(xmas[aleatorio(xmas.length)]);
         RemoverEscudo();
     }else if( (month == 2 && day >3) && (month == 2 && day < 7) ){//constitucion
